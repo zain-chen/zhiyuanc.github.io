@@ -174,9 +174,8 @@ languages:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
+---
 
 ## About Me
 
 I am a second-year master student in UChicago, advised by Prof. [Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/) and Prof. [Frederic Koehler](https://frkoehle.github.io/). Previously, I obtained my bachelor's degree from Beijing Normal University, advised by Prof. [Gaorong Li](https://scholar.google.com/citations?user=cakQLOsAAAAJ&hl=zh-CN). During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serve as the captain for two years.
----
