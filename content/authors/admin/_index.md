@@ -83,15 +83,6 @@ education:
     date_end: 2023-06-16
     summary: |
       GPA: 3.8/4.0
-      
-      Courses included:
-      - Applied Multivariate Statistical Analysis
-      - Applied Stochastic Processes
-      - Linear Model
-      - Statistical Learning
-      - High-Dimensional Statistics and Big Data Problem
-      - Data Mining
-      - Asymptotic Statistics
  work:
    - position: Financial Technology Intern
      company_name: China Construction Bank, Beijing Branch 
