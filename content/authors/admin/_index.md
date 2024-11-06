@@ -66,7 +66,7 @@ education:
       - Trustworthy Machine Learning
       - Algorithm for Massive Datasets
       - High-Dimensional Probability with Applications in Data Science
-  - #area: MEng Artificial Intelligence
+    #- area: MEng Artificial Intelligence
     #institution: Massachusetts Institute of Technology
     #date_start: 2016-01-01
     #date_end: 2020-12-31
