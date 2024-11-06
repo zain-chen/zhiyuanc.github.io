@@ -66,11 +66,6 @@ education:
       - Trustworthy Machine Learning
       - Algorithm for Massive Datasets
       - High-Dimensional Probability with Applications in Data Science
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
   - #area: MEng Artificial Intelligence
     #institution: Massachusetts Institute of Technology
     #date_start: 2016-01-01
@@ -83,13 +78,15 @@ education:
     date_end: 2023-06-16
     summary: |
       GPA: 3.8/4.0
- work:
-   - position: Financial Technology Intern
-     company_name: China Construction Bank, Beijing Branch 
-     company_url: ''
-     company_logo: ''
-     date_start: 2021-07-01
-     date_end: 2021-08-30
+
+work:
+  - position: Financial Technology Intern
+    company_name: China Construction Bank, Beijing Branch
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-07-01
+    date_end: 2021-08-30
+
 #     summary: |2-
 #       Responsibilities include:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
