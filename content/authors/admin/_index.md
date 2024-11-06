@@ -194,3 +194,4 @@ languages:
 ## About Me
 
 I am a second-year master student in UChicago, advised by Prof. [Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/) and Prof. [Frederic Koehler](https://frkoehle.github.io/). Previously, I obtained my bachelor's degree from Beijing Normal University, advised by Prof. [Gaorong Li](https://scholar.google.com/citations?user=cakQLOsAAAAJ&hl=zh-CN). During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serve as the captain for two years.
+---
